@@ -1,3 +1,5 @@
 /ssh
 
 *.log/
+*.pub
+*.ssh
