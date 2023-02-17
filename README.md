@@ -1,6 +1,6 @@
 # ProjectHour
 
-Home  -    Archut,Shahaj
+Home  -    Archut,Sahaj
 
 About -   Ruchit,Sampu
 
