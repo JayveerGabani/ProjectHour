@@ -3,3 +3,5 @@ Contact 1 - 9876543210
 Contact 2 - 9632587489
 
 Contact details refers to your contact details, including, but not limited to, your mobile phone numbers, email address and mailing address.
+
+Contact Information - Person contains the name, position title, and contact instructions for the person(s) associated with the data set or information resource being described. Multiples are allowed; a separate record for each individual is required.
