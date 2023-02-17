@@ -1,28 +1,20 @@
 # ProjectHour
-Archut 
-        Home
-shahaj 
 
-Ruchit
-        About
-sampu
+Home  -    Archut,Shahaj
 
-jayveer
-        Service
-Rohit
+About -   Ruchit,Sampu
 
-Dhruvisha
-        Product
-Vishva
+Service - Jayveer,Rohit
 
-Kriyal
-        contact
-Yashika
+Product - Dhruvisha,Vishva
 
-Yash
-        Readme File
+Contact - Kriyal.Yashika
+
+Readme -  Yash
 
         v1.1
         v1.2
+
+
         
         
