@@ -1,2 +1,2 @@
-PID
-PPrice
+PID=101
+PPrice=20
