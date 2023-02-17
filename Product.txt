@@ -1,3 +1,4 @@
 Pname
 Pquelity
 pprice
+pweight
