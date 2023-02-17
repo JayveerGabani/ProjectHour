@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+(01)
+Instagram is a social media platform that allows users to share photos and videos with their followers. 
+It was launched in 2010 and was later acquired by Facebook in 2012. As of 2021, Instagram has over one billion active users worldwide.
+
+(02)
+The platform's mission is to bring people closer together through shared experiences. It aims to inspire creativity and self-expression, 
+and to provide a space where users can connect with others who share their interests.
+=======
 :- Instagram makes it easy to capture, create and share what you love.
  
 	Discover more about Instagram's features and commitment to community, 
 
 We’re commited to fostering a safe and supportive community for everyone
+>>>>>>> d1adfd447ae2c1cc047b7971a69173236c36ed85.
