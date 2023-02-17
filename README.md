@@ -8,7 +8,7 @@ Service - Jayveer,Rohit
 
 Product - Dhruvisha,Vishva
 
-Contact - Kriyal.Yashika
+Contact - Kriyal,Yashika
 
 Readme -  Yash
 
