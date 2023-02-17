@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+pname : =Balaji
+=======
+PID=101
+PPrice=20
+<<<<<<< HEAD
+10,30
+=======
+>>>>>>> 0a5edf55cd81ce75ca972cb39513f45b41596534
+
+pname = oroe
+>>>>>>> c85d8a400516046bd2973339dc6aba85dfe14794
