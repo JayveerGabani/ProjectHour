@@ -12,8 +12,8 @@ Contact - Kriyal.Yashika
 
 Readme -  Yash
 
-v1.1
-v1.2
+        v1.1
+        v1.2
 
 
         
