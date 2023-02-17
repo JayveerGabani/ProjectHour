@@ -1,7 +1,5 @@
 Welcome To The Home Page.
 
-This is HomePage.
-
 Hello! This is from New Starting!
 
 Ads are activated on HomePage! 
